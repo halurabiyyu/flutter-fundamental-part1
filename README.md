@@ -1,5 +1,8 @@
 # Project hello_world
 
+Halur Muhammad Abiyyu <br>
+TI 3H <br>
+
 ## Praktikum 1
 
 ![Screenshoot Praktikum 1](images/Praktikum_1.png)
