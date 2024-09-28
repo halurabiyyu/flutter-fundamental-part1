@@ -1,16 +1,51 @@
-# hello_world
+# Project hello_world
 
-A new Flutter project.
+## Praktikum 1
 
-## Getting Started
+![Screenshoot Praktikum 1](images/Praktikum_1.png)
 
-This project is a starting point for a Flutter application.
+## Praktikum 2
+Menampilkan aplikasi pada handphone pribadi <br>
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshoot Praktikum 2](images/Praktikum_2.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 3
+Menjalankan Proyek Flutter <br>
+![Screenshoot Praktikum 3](images/Praktikum_3_Langkah_11.png)
+
+<br>
+
+Mengganti teks dengan nama lengkap
+![Screenshoot Praktikum 3](images/Praktikum_3_Langkah_12.png)
+
+## Praktikum 4
+![Screenshoot Praktikum 4](images/Praktikum_4.png)
+
+## Praktikum 5
+Loading Widget
+<br>
+
+![Screenshoot Praktikum 5 Loading](images/Praktikum_5_loading_widget.png)
+<br>
+
+Floating Action Button <br>
+
+![Screenshoot Praktikum 5 FAB](images/Praktikum_5_fab_widget.png)
+
+<br>
+
+Scaffold Widget <br>
+![Screenshoot Praktikum 5 Scaffold](images/Praktikum_5_scaffold_widget.png)
+
+<br> Dialog Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/Praktikum_5_dialog_widget.png)
+
+<br> Input dan Selection Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/Praktikum_5_input_widget.png)
+
+<br> Date dan Time Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/Praktikum_5_date_widget.png)
