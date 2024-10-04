@@ -52,3 +52,7 @@ Scaffold Widget <br>
 <br> Date dan Time Widget <br>
 
 ![Screenshoot Praktikum 5 Scaffold](images/Praktikum_5_date_widget.png)
+
+## Namer APP
+
+![Screenshoot Praktikum 5 Scaffold](images/namer_app.png)
